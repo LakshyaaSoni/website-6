@@ -1,0 +1,524 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>ASP.NET Monsters</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://aspnetmonsters.com/"/>
+  <updated>2020-09-28T13:16:01.638Z</updated>
+  <id>http://aspnetmonsters.com/</id>
+  
+  <author>
+    <name>The Monsters</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Monsters Weekly 184 -  Static Site Generators with Khalid Abuhakmeh</title>
+    <link href="http://aspnetmonsters.com/2020/09/monsters-weekly%5Cep184/"/>
+    <id>http://aspnetmonsters.com/2020/09/monsters-weekly\ep184/</id>
+    <published>2020-09-28T13:00:00.000Z</published>
+    <updated>2020-09-28T13:16:01.638Z</updated>
+    
+    <content type="html"><![CDATA[<p>In this week’s episode, we are joined by special guests Khalid Abuhakmeh. Join us to find out why Khalid loves static site generators!</p><p>Khalid Abuhakmeh: (<a href="https://twitter.com/buhakmeh" target="_blank" rel="noopener">https://twitter.com/buhakmeh</a> and <a href="https://khalidabuhakmeh.com/" target="_blank" rel="noopener">https://khalidabuhakmeh.com/</a>) </p><p>Jekyll: <a href="https://jekyllrb.com/" target="_blank" rel="noopener">https://jekyllrb.com/</a><br>Hexo: <a href="https://hexo.io/" target="_blank" rel="noopener">https://hexo.io/</a><br>Eleventy: <a href="https://www.11ty.dev/" target="_blank" rel="noopener">https://www.11ty.dev/</a><br>jekyll-aspnet-core: <a href="https://github.com/khalidabuhakmeh/jekyll-aspnet-core" target="_blank" rel="noopener">https://github.com/khalidabuhakmeh/jekyll-aspnet-core</a><br>Algolia: <a href="https://www.algolia.com/" target="_blank" rel="noopener">https://www.algolia.com/</a><br>Jamstack | JavaScript, APIs, and Markup:  <a href="https://jamstack.org/" target="_blank" rel="noopener">https://jamstack.org/</a><br>Azure Static Web Apps: <a href="https://azure.microsoft.com/en-us/services/app-service/static/" target="_blank" rel="noopener">https://azure.microsoft.com/en-us/services/app-service/static/</a></p><iframe width="1084" height="610" src="https://www.youtube.com/embed/MrpNY1c7qiI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;In this week’s episode, we are joined by special guests Khalid Abuhakmeh. Join us to find out why Khalid loves static site generators!&lt;/p
+      
+    
+    </summary>
+    
+      <category term="Monsters Weekly" scheme="http://aspnetmonsters.com/categories/Monsters-Weekly/"/>
+    
+    
+      <category term="ASP.NET Core" scheme="http://aspnetmonsters.com/tags/ASP-NET-Core/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Monsters Weekly 183 -  Cross Browser Automation with Playwright</title>
+    <link href="http://aspnetmonsters.com/2020/09/monsters-weekly%5Cep183/"/>
+    <id>http://aspnetmonsters.com/2020/09/monsters-weekly\ep183/</id>
+    <published>2020-09-21T13:00:00.000Z</published>
+    <updated>2020-09-28T13:16:01.638Z</updated>
+    
+    <content type="html"><![CDATA[<p>Playwright is a relatively new entrance to browser automation. Written in nodejs, it offers a single API to automate Chromium, Firefox and Webkit while promising to be capable, reliable and fast. In today’s episode, we take Playwright for a spin and see if it delivers on those promises.</p><p>Playwright: <a href="https://playwright.dev/" target="_blank" rel="noopener">https://playwright.dev/</a></p><iframe width="1084" height="610" src="https://www.youtube.com/embed/75dzhaDkTxs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Playwright is a relatively new entrance to browser automation. Written in nodejs, it offers a single API to automate Chromium, Firefox an
+      
+    
+    </summary>
+    
+      <category term="Monsters Weekly" scheme="http://aspnetmonsters.com/categories/Monsters-Weekly/"/>
+    
+    
+      <category term="ASP.NET Core" scheme="http://aspnetmonsters.com/tags/ASP-NET-Core/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Monsters Weekly 182 -  Sending Dates from JavaScript to .NET</title>
+    <link href="http://aspnetmonsters.com/2020/09/monsters-weekly%5Cep182/"/>
+    <id>http://aspnetmonsters.com/2020/09/monsters-weekly\ep182/</id>
+    <published>2020-09-14T13:00:00.000Z</published>
+    <updated>2020-09-28T13:16:01.638Z</updated>
+    
+    <content type="html"><![CDATA[<p>Getting the logic right when dealing with dates is hard in any application but it’s even harder when your application logic crosses platform boundaries. In today’s episode, we take a look at some of the common issues faced when trying send user entered dates in a browser based JavaScript application to a .NET Core based server side process.</p><p>Sample Repo: <a href="https://github.com/AspNetMonsters/EP170_EFCoreNodaTime" target="_blank" rel="noopener">https://github.com/AspNetMonsters/EP170_EFCoreNodaTime</a></p><p>Previous episode:<br>NodaTime and JavaScript Dates (Vue edition): <a href="https://youtu.be/OG9KYoj92OU" target="_blank" rel="noopener">https://youtu.be/OG9KYoj92OU</a><br>NodaTime and API Controllers: <a href="https://youtu.be/NnUoOdnsIko" target="_blank" rel="noopener">https://youtu.be/NnUoOdnsIko</a><br>Noda Time and Entity Framework Core: <a href="https://youtu.be/zl0h2J6a0w4" target="_blank" rel="noopener">https://youtu.be/zl0h2J6a0w4</a></p><p>Noda Time: <a href="https://nodatime.org/" target="_blank" rel="noopener">https://nodatime.org/</a><br>Luxon: <a href="https://moment.github.io/luxon/index.html" target="_blank" rel="noopener">https://moment.github.io/luxon/index.html</a></p><iframe width="1084" height="610" src="https://www.youtube.com/embed/kivFPVlokwU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Getting the logic right when dealing with dates is hard in any application but it’s even harder when your application logic crosses platf
+      
+    
+    </summary>
+    
+      <category term="Monsters Weekly" scheme="http://aspnetmonsters.com/categories/Monsters-Weekly/"/>
+    
+    
+      <category term="ASP.NET Core" scheme="http://aspnetmonsters.com/tags/ASP-NET-Core/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Monsters Weekly 180 -  SQL Profiling with Azure Data Studio</title>
+    <link href="http://aspnetmonsters.com/2020/08/monsters-weekly%5Cep180/"/>
+    <id>http://aspnetmonsters.com/2020/08/monsters-weekly\ep180/</id>
+    <published>2020-08-31T13:00:00.000Z</published>
+    <updated>2020-09-28T13:16:01.638Z</updated>
+    
+    <content type="html"><![CDATA[<p>Azure Data Studio is a lightweight alternative to the often clunky SQL Server Management Studio. </p><p>Azure Data Studio: <a href="https://docs.microsoft.com/sql/azure-data-studio/download-azure-data-studio" target="_blank" rel="noopener">https://docs.microsoft.com/sql/azure-data-studio/download-azure-data-studio</a><br>SQL Server Profiler Extension: <a href="https://docs.microsoft.com/sql/azure-data-studio/sql-server-profiler-extension" target="_blank" rel="noopener">https://docs.microsoft.com/sql/azure-data-studio/sql-server-profiler-extension</a><br>List of Extensions: <a href="https://github.com/microsoft/azuredatastudio/wiki/List-of-Extensions" target="_blank" rel="noopener">https://github.com/microsoft/azuredatastudio/wiki/List-of-Extensions</a></p><iframe width="1084" height="610" src="https://www.youtube.com/embed/pM6NHhDNJw0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Azure Data Studio is a lightweight alternative to the often clunky SQL Server Management Studio. &lt;/p&gt;
+&lt;p&gt;Azure Data Studio: &lt;a href=&quot;http
+      
+    
+    </summary>
+    
+      <category term="Monsters Weekly" scheme="http://aspnetmonsters.com/categories/Monsters-Weekly/"/>
+    
+    
+      <category term="ASP.NET Core" scheme="http://aspnetmonsters.com/tags/ASP-NET-Core/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Monsters Weekly 179 -  Working with AsyncLocal</title>
+    <link href="http://aspnetmonsters.com/2020/08/monsters-weekly%5Cep179/"/>
+    <id>http://aspnetmonsters.com/2020/08/monsters-weekly\ep179/</id>
+    <published>2020-08-24T13:00:00.000Z</published>
+    <updated>2020-09-28T13:16:01.622Z</updated>
+    
+    <content type="html"><![CDATA[<p>In this episode we dive into AsyncLocal with a code example and a brief discussion on where it’s used by the ASP.NET team throughout the framework.</p><p>For more information on this topic:</p><p><a href="https://docs.microsoft.com/en-us/dotnet/api/system.threading.asynclocal-1?view=netcore-3.1" target="_blank" rel="noopener">https://docs.microsoft.com/en-us/dotnet/api/system.threading.asynclocal-1?view=netcore-3.1</a></p><p><a href="https://blog.stephencleary.com/2013/04/implicit-async-context-asynclocal.html" target="_blank" rel="noopener">https://blog.stephencleary.com/2013/04/implicit-async-context-asynclocal.html</a></p><iframe width="1084" height="610" src="https://www.youtube.com/embed/QFarimuMujg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;In this episode we dive into AsyncLocal with a code example and a brief discussion on where it’s used by the ASP.NET team throughout the 
+      
+    
+    </summary>
+    
+      <category term="Monsters Weekly" scheme="http://aspnetmonsters.com/categories/Monsters-Weekly/"/>
+    
+    
+      <category term="ASP.NET Core" scheme="http://aspnetmonsters.com/tags/ASP-NET-Core/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Monsters Weekly 178 -  How to Manually Trigger GitHub Actions</title>
+    <link href="http://aspnetmonsters.com/2020/08/monsters-weekly%5Cep178/"/>
+    <id>http://aspnetmonsters.com/2020/08/monsters-weekly\ep178/</id>
+    <published>2020-08-17T13:00:00.000Z</published>
+    <updated>2020-09-28T13:16:01.622Z</updated>
+    
+    <content type="html"><![CDATA[<p>GitHub Actions makes it easy to automate your continuous integration and continuous deployment workflows but early on it lacked the ability to manually trigger a workflow. Thankfully this missing feature has been added. Let’s take a look at how to enable manually running your GitHub Actions workflows.</p><iframe width="1084" height="610" src="https://www.youtube.com/embed/MJes-m4EUdE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;GitHub Actions makes it easy to automate your continuous integration and continuous deployment workflows but early on it lacked the abili
+      
+    
+    </summary>
+    
+      <category term="Monsters Weekly" scheme="http://aspnetmonsters.com/categories/Monsters-Weekly/"/>
+    
+    
+      <category term="ASP.NET Core" scheme="http://aspnetmonsters.com/tags/ASP-NET-Core/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Monsters Weekly 177 -  C# 9 Record Types Revisited</title>
+    <link href="http://aspnetmonsters.com/2020/08/monsters-weekly%5Cep177/"/>
+    <id>http://aspnetmonsters.com/2020/08/monsters-weekly\ep177/</id>
+    <published>2020-08-10T13:00:00.000Z</published>
+    <updated>2020-09-28T13:16:01.622Z</updated>
+    
+    <content type="html"><![CDATA[<p>In this video we revisit record types, this time in actual C#</p><iframe width="1084" height="610" src="https://www.youtube.com/embed/wv3nxgeNji4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;In this video we revisit record types, this time in actual C#&lt;/p&gt;
+&lt;iframe width=&quot;1084&quot; height=&quot;610&quot; src=&quot;https://www.youtube.com/embed/wv
+      
+    
+    </summary>
+    
+      <category term="Monsters Weekly" scheme="http://aspnetmonsters.com/categories/Monsters-Weekly/"/>
+    
+    
+      <category term="ASP.NET Core" scheme="http://aspnetmonsters.com/tags/ASP-NET-Core/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Monsters Weekly 176 -  HMAC in Postman (Postperson)</title>
+    <link href="http://aspnetmonsters.com/2020/08/monsters-weekly%5Cep176/"/>
+    <id>http://aspnetmonsters.com/2020/08/monsters-weekly\ep176/</id>
+    <published>2020-08-03T13:00:00.000Z</published>
+    <updated>2020-09-28T13:16:01.622Z</updated>
+    
+    <content type="html"><![CDATA[<p>Getting HMAC signatures to work in Postperson (Postman) is a huge pain largely because HMAC signatures are inherently dumb in an age of TLS. None the less we can make them work; this video will show you how. </p><p>Reference:<br>Postperson sandbox: <a href="https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/" target="_blank" rel="noopener">https://learning.postman.com/docs/writing-scripts/script-references/postman-sandbox-api-reference/</a></p><iframe width="702" height="395" src="https://www.youtube.com/embed/8PNIcX8pYGI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Getting HMAC signatures to work in Postperson (Postman) is a huge pain largely because HMAC signatures are inherently dumb in an age of T
+      
+    
+    </summary>
+    
+      <category term="Monsters Weekly" scheme="http://aspnetmonsters.com/categories/Monsters-Weekly/"/>
+    
+    
+      <category term="ASP.NET Core" scheme="http://aspnetmonsters.com/tags/ASP-NET-Core/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Monsters Weekly 175 -  YARP!</title>
+    <link href="http://aspnetmonsters.com/2020/07/monsters-weekly%5Cep175/"/>
+    <id>http://aspnetmonsters.com/2020/07/monsters-weekly\ep175/</id>
+    <published>2020-07-27T13:00:00.000Z</published>
+    <updated>2020-09-28T13:16:01.622Z</updated>
+    
+    <content type="html"><![CDATA[<p>YARP, not to be confused with YARR which is what a pirate says, is a managed reverse proxy that provides some interesting functionality for ASP.NET Core applications or really any web application. In this episode we scratch the surface of what YARP is.</p><p>YARP site: <a href="https://microsoft.github.io/reverse-proxy/index.html" target="_blank" rel="noopener">https://microsoft.github.io/reverse-proxy/index.html</a></p><iframe width="702" height="395" src="https://www.youtube.com/embed/3hOzV_-k-LM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;YARP, not to be confused with YARR which is what a pirate says, is a managed reverse proxy that provides some interesting functionality f
+      
+    
+    </summary>
+    
+      <category term="Monsters Weekly" scheme="http://aspnetmonsters.com/categories/Monsters-Weekly/"/>
+    
+    
+      <category term="ASP.NET Core" scheme="http://aspnetmonsters.com/tags/ASP-NET-Core/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Monsters Weekly 174 -  NodaTime and JavaScript Dates</title>
+    <link href="http://aspnetmonsters.com/2020/07/monsters-weekly%5Cep174/"/>
+    <id>http://aspnetmonsters.com/2020/07/monsters-weekly\ep174/</id>
+    <published>2020-07-20T13:00:00.000Z</published>
+    <updated>2020-09-28T13:16:01.622Z</updated>
+    
+    <content type="html"><![CDATA[<p>Getting the logic right when dealing with dates is hard in any application but it’s even harder when your application logic crosses platform boundaries. In today’s episode, we take a look at some of the common issues faced when trying to load dates from a .NET backend into a JavaScript / browser based frontend. </p><p>Sample Repo: <a href="https://github.com/AspNetMonsters/EP170_EFCoreNodaTime" target="_blank" rel="noopener">https://github.com/AspNetMonsters/EP170_EFCoreNodaTime</a></p><p>Previous episode:<br>NodaTime and API Controllers: <a href="https://youtu.be/NnUoOdnsIko" target="_blank" rel="noopener">https://youtu.be/NnUoOdnsIko</a><br>Noda Time and Entity Framework Core: <a href="https://youtu.be/zl0h2J6a0w4" target="_blank" rel="noopener">https://youtu.be/zl0h2J6a0w4</a></p><p>Noda Time: <a href="https://nodatime.org/" target="_blank" rel="noopener">https://nodatime.org/</a></p><iframe width="1084" height="610" src="https://www.youtube.com/embed/OG9KYoj92OU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Getting the logic right when dealing with dates is hard in any application but it’s even harder when your application logic crosses platf
+      
+    
+    </summary>
+    
+      <category term="Monsters Weekly" scheme="http://aspnetmonsters.com/categories/Monsters-Weekly/"/>
+    
+    
+      <category term="ASP.NET Core" scheme="http://aspnetmonsters.com/tags/ASP-NET-Core/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Monsters Weekly 173 -  Record Types</title>
+    <link href="http://aspnetmonsters.com/2020/07/monsters-weekly%5Cep173/"/>
+    <id>http://aspnetmonsters.com/2020/07/monsters-weekly\ep173/</id>
+    <published>2020-07-13T13:00:00.000Z</published>
+    <updated>2020-09-28T13:16:01.622Z</updated>
+    
+    <content type="html"><![CDATA[<p>C# 9 is in the pipeline and one of the more exciting features in it is record types. Because we couldn’t figure out how to play with C# 9 yet we’ll take a break and look at how they’re implemented in F#.</p><iframe width="1084" height="610" src="https://www.youtube.com/embed/fEQbwwcoBuo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;C# 9 is in the pipeline and one of the more exciting features in it is record types. Because we couldn’t figure out how to play with C# 9
+      
+    
+    </summary>
+    
+      <category term="Monsters Weekly" scheme="http://aspnetmonsters.com/categories/Monsters-Weekly/"/>
+    
+    
+      <category term="ASP.NET Core" scheme="http://aspnetmonsters.com/tags/ASP-NET-Core/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Monsters Weekly 172 -  NodaTime and API Controllers</title>
+    <link href="http://aspnetmonsters.com/2020/07/monsters-weekly%5Cep172/"/>
+    <id>http://aspnetmonsters.com/2020/07/monsters-weekly\ep172/</id>
+    <published>2020-07-06T13:00:00.000Z</published>
+    <updated>2020-09-28T13:16:01.622Z</updated>
+    
+    <content type="html"><![CDATA[<p>In a previous episode, we talked about using Noda Time Entity Framework Core and Razor Pages. In today’s episode, we look at using Noda Time with ASP.NET Core API Controllers and the configuration needed to properly serialize Noda Time types to JSON.</p><p>Sample Repo: <a href="https://github.com/AspNetMonsters/EP170_EFCoreNodaTime" target="_blank" rel="noopener">https://github.com/AspNetMonsters/EP170_EFCoreNodaTime</a></p><p>Previous episode: <a href="https://youtu.be/zl0h2J6a0w4" target="_blank" rel="noopener">https://youtu.be/zl0h2J6a0w4</a><br>Noda Time: <a href="https://nodatime.org/" target="_blank" rel="noopener">https://nodatime.org/</a></p><iframe width="1084" height="610" src="https://www.youtube.com/embed/NnUoOdnsIko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;In a previous episode, we talked about using Noda Time Entity Framework Core and Razor Pages. In today’s episode, we look at using Noda T
+      
+    
+    </summary>
+    
+      <category term="Monsters Weekly" scheme="http://aspnetmonsters.com/categories/Monsters-Weekly/"/>
+    
+    
+      <category term="ASP.NET Core" scheme="http://aspnetmonsters.com/tags/ASP-NET-Core/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Monsters Weekly 171 -  Artiller.io + Faker.js</title>
+    <link href="http://aspnetmonsters.com/2020/06/monsters-weekly%5Cep171/"/>
+    <id>http://aspnetmonsters.com/2020/06/monsters-weekly\ep171/</id>
+    <published>2020-06-29T13:00:00.000Z</published>
+    <updated>2020-09-28T13:16:01.622Z</updated>
+    
+    <content type="html"><![CDATA[<p>In this episode we couple the power of load testing with Artillery.io with the realistic test data we can get from Faker.js to create high performance testing with actual emails and passwords.</p><p>Previous episodes on Artillery.io:<br><a href="https://youtu.be/92p68lZPYx4" target="_blank" rel="noopener">https://youtu.be/92p68lZPYx4</a><br><a href="https://youtu.be/lH-zirnd8S4" target="_blank" rel="noopener">https://youtu.be/lH-zirnd8S4</a></p><iframe width="1084" height="610" src="https://www.youtube.com/embed/hJZ5-F70tpQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;In this episode we couple the power of load testing with Artillery.io with the realistic test data we can get from Faker.js to create hig
+      
+    
+    </summary>
+    
+      <category term="Monsters Weekly" scheme="http://aspnetmonsters.com/categories/Monsters-Weekly/"/>
+    
+    
+      <category term="ASP.NET Core" scheme="http://aspnetmonsters.com/tags/ASP-NET-Core/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Monsters Weekly 170 -  Noda Time and Entity Framework Core</title>
+    <link href="http://aspnetmonsters.com/2020/06/monsters-weekly%5Cep170/"/>
+    <id>http://aspnetmonsters.com/2020/06/monsters-weekly\ep170/</id>
+    <published>2020-06-22T13:00:00.000Z</published>
+    <updated>2020-09-28T13:16:01.622Z</updated>
+    
+    <content type="html"><![CDATA[<p>Noda Time provides a number of very convenient types that can simplify the date/time logic in your applications but out of the box, Entity Framework Core doesn’t know how to convert those types to SQL Server column types. Fortunately, it’s pretty easy to configure Entity Framework Core to use Noda Time types. </p><pre><code>https://nodatime.org/</code></pre><iframe width="1084" height="610" src="https://www.youtube.com/embed/zl0h2J6a0w4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Noda Time provides a number of very convenient types that can simplify the date/time logic in your applications but out of the box, Entit
+      
+    
+    </summary>
+    
+      <category term="Monsters Weekly" scheme="http://aspnetmonsters.com/categories/Monsters-Weekly/"/>
+    
+    
+      <category term="ASP.NET Core" scheme="http://aspnetmonsters.com/tags/ASP-NET-Core/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Monsters Weekly 169 -  Giraffe</title>
+    <link href="http://aspnetmonsters.com/2020/06/monsters-weekly%5Cep169/"/>
+    <id>http://aspnetmonsters.com/2020/06/monsters-weekly\ep169/</id>
+    <published>2020-06-15T13:00:00.000Z</published>
+    <updated>2020-09-28T13:16:01.622Z</updated>
+    
+    <content type="html"><![CDATA[<p>Writing your ASP.NET in C# is not the only option. With Giraffe you can write you controllers in F#. Also covered: Tech Empower benchmarks <a href="https://www.techempower.com/benchmarks/#section=data-r19&amp;hw=ph&amp;test=composite" target="_blank" rel="noopener">https://www.techempower.com/benchmarks/#section=data-r19&amp;hw=ph&amp;test=composite</a></p><iframe width="1084" height="610" src="https://www.youtube.com/embed/iQMiVC_E1v0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Writing your ASP.NET in C# is not the only option. With Giraffe you can write you controllers in F#. Also covered: Tech Empower benchmark
+      
+    
+    </summary>
+    
+      <category term="Monsters Weekly" scheme="http://aspnetmonsters.com/categories/Monsters-Weekly/"/>
+    
+    
+      <category term="ASP.NET Core" scheme="http://aspnetmonsters.com/tags/ASP-NET-Core/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Monsters Weekly 168 -  Microsoft.FeatureManagement and Azure App Configuration</title>
+    <link href="http://aspnetmonsters.com/2020/06/monsters-weekly%5Cep168/"/>
+    <id>http://aspnetmonsters.com/2020/06/monsters-weekly\ep168/</id>
+    <published>2020-06-08T13:00:00.000Z</published>
+    <updated>2020-09-28T13:16:01.622Z</updated>
+    
+    <content type="html"><![CDATA[<p>In this episode, we close off our series exploring Microsoft.FeatureManagement and Azure App Configuration. See how the Azure App Configuration service makes it easy to manage feature flags in your ASP.NET Core applications.</p><p>Previous Episodes:<br>#158 - Azure App Configuration <a href="https://youtu.be/npcTS3ZNY1k" target="_blank" rel="noopener">https://youtu.be/npcTS3ZNY1k</a><br>#160 - Azure App Config for Full Framework <a href="https://youtu.be/AVxG3N6jjlQ" target="_blank" rel="noopener">https://youtu.be/AVxG3N6jjlQ</a><br>#163 - Getting Started with Feature Flags - <a href="https://youtu.be/uZ7vnvSjUEs" target="_blank" rel="noopener">https://youtu.be/uZ7vnvSjUEs</a><br>#163 - Using Feature Filters in Microsoft.FeatureManagement - <a href="https://youtu.be/uZ7vnvSjUEs" target="_blank" rel="noopener">https://youtu.be/uZ7vnvSjUEs</a><br>#166 - Staged Rollouts with Microsoft.FeatureManagement - <a href="https://youtu.be/uZ7vnvSjUEs" target="_blank" rel="noopener">https://youtu.be/uZ7vnvSjUEs</a></p><iframe width="1084" height="610" src="https://www.youtube.com/embed/_UOdA7vgqWE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;In this episode, we close off our series exploring Microsoft.FeatureManagement and Azure App Configuration. See how the Azure App Configu
+      
+    
+    </summary>
+    
+      <category term="Monsters Weekly" scheme="http://aspnetmonsters.com/categories/Monsters-Weekly/"/>
+    
+    
+      <category term="ASP.NET Core" scheme="http://aspnetmonsters.com/tags/ASP-NET-Core/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Monsters Weekly 167 -  Generating an Absolute URL in Razor Pages</title>
+    <link href="http://aspnetmonsters.com/2020/06/monsters-weekly%5Cep167/"/>
+    <id>http://aspnetmonsters.com/2020/06/monsters-weekly\ep167/</id>
+    <published>2020-06-01T13:00:00.000Z</published>
+    <updated>2020-09-28T13:16:01.622Z</updated>
+    
+    <content type="html"><![CDATA[<p>When sharing a URL to a specific page in your Razor Page application via email, you need the ability to generate an absolute URL. In this week’s episode, Monster Dave shows us the easy way to do that.</p><p>TLDW:<br>Url.PageLink(“/Register”, values: new { code = “MyUnique Code” });</p><iframe width="1084" height="610" src="https://www.youtube.com/embed/MP6yju5wBUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;When sharing a URL to a specific page in your Razor Page application via email, you need the ability to generate an absolute URL. In this
+      
+    
+    </summary>
+    
+      <category term="Monsters Weekly" scheme="http://aspnetmonsters.com/categories/Monsters-Weekly/"/>
+    
+    
+      <category term="ASP.NET Core" scheme="http://aspnetmonsters.com/tags/ASP-NET-Core/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Monsters Weekly 166 -  Staged Rollouts with Microsoft.FeatureManagement</title>
+    <link href="http://aspnetmonsters.com/2020/05/monsters-weekly%5Cep166/"/>
+    <id>http://aspnetmonsters.com/2020/05/monsters-weekly\ep166/</id>
+    <published>2020-05-25T13:00:00.000Z</published>
+    <updated>2020-09-28T13:16:01.622Z</updated>
+    
+    <content type="html"><![CDATA[<p>Continuing our series exploring the Microsoft.FeatureManagement library for ASP.NET Core. In this episode, we dive explore the TargetingFilter which can be used to roll out a feature to a subset of users.</p><p>GitHub Repo: <a href="https://github.com/AspNetMonsters/EP166_FeatureManagementTargetingSample" target="_blank" rel="noopener">https://github.com/AspNetMonsters/EP166_FeatureManagementTargetingSample</a></p><p>Previous Episodes:<br>#163 - Getting Started with Feature Flags - <a href="https://youtu.be/uZ7vnvSjUEs" target="_blank" rel="noopener">https://youtu.be/uZ7vnvSjUEs</a><br>#164 - Feature Filters - <a href="https://youtu.be/V92ewvGgSVk" target="_blank" rel="noopener">https://youtu.be/V92ewvGgSVk</a></p><iframe width="840" height="473" src="https://www.youtube.com/embed/ptiki5yhWDU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Continuing our series exploring the Microsoft.FeatureManagement library for ASP.NET Core. In this episode, we dive explore the TargetingF
+      
+    
+    </summary>
+    
+      <category term="Monsters Weekly" scheme="http://aspnetmonsters.com/categories/Monsters-Weekly/"/>
+    
+    
+      <category term="ASP.NET Core" scheme="http://aspnetmonsters.com/tags/ASP-NET-Core/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Scaling Azure Functions from Consumption Plan to Premium Plan (and back again)</title>
+    <link href="http://aspnetmonsters.com/2020/05/2020-05-23-scaling-azure-functions-from-consumption-plan-to-premium-hosting-plan/"/>
+    <id>http://aspnetmonsters.com/2020/05/2020-05-23-scaling-azure-functions-from-consumption-plan-to-premium-hosting-plan/</id>
+    <published>2020-05-23T17:30:00.000Z</published>
+    <updated>2020-09-28T13:16:01.559Z</updated>
+    
+    <content type="html"><![CDATA[<p>Azure Functions, when hosted on a consumption plan, are great for most scenarios. You pay per use which is great for keeping costs down but there are some downsides and limitations. One of those is the time it takes to cold start your function app. If your function app hasn’t been triggered in some time, it can take a while for the a new instance to start up to run your app. Likewise, if a very sudden spike in load occurs, it can take some time for the consumption plan to start up enough instances to handle that load. In the meantime, you might have clients getting timeouts or failed requests.</p><p>Azure Functions offers another hosting model called <a href="https://docs.microsoft.com/en-us/azure/azure-functions/functions-premium-plan" target="_blank" rel="noopener">Azure Functions Premium Plan</a>. With premium plans, instead of paying per function execution, you pay for the underlying compute instances that are hosting your functions. This is often more expensive, but it also ensures there are always a pre-set number of warmed instances ready to execute your function.</p><p>That’s great, but what if I only really need those pre-warmed instances for a short period of time when I’m expecting a lot of incoming traffic. The rest of the time, I would rather use a Consumption Plan to save on hosting costs.</p><p>I thought the choice of hosting plan was something you needed to make up front but it turns out that you can actually move an Azure Function App from a consumption plan to a premium plan (and back again).</p><p>Thanks to <a href="https://twitter.com/stimms/" target="_blank" rel="noopener">Simon Timms</a> for starting this discussion on Twitter. We got very helpful responses from folks on the Azure Functions team:</p><p><a href="https://twitter.com/jeffhollan/" target="_blank" rel="noopener">Jeff Hollan</a> has a great <a href="https://github.com/Azure-Samples/functions-csharp-premium-scaler" target="_blank" rel="noopener">sample</a> using an Azure Durable Function to scale an Azure Function App to a premium plan for a specified amount of time, then automatically scale back down to a consumption plan.</p><blockquote class="twitter-tweet"><p lang="und" dir="ltr"><a href="https://t.co/6C9l3PQDoZ" target="_blank" rel="noopener">https://t.co/6C9l3PQDoZ</a></p>&mdash; Jeff Hollan (@jeffhollan) <a href="https://twitter.com/jeffhollan/status/1245779682961674240?ref_src=twsrc%5Etfw" target="_blank" rel="noopener">April 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><p>This is a super cool sample. It uses the <a href="https://docs.microsoft.com/en-us/rest/api/resources/" target="_blank" rel="noopener">Azure Resource Manager REST API</a> to make changes to the target function app resources. For my project however, I didn’t really want to spin up another Azure Function to manage my Azure Functions. I just wanted an easy way to scale my 12 function apps up to premium plans for a couple hours, then scale them back down to a consumption plan.</p><p>I decided to try using the AZ CLI for this and it turned out really well. I was able to write a simple script to scale up and down.</p><h2 id="Setting-up-the-AZ-CLI"><a href="#Setting-up-the-AZ-CLI" class="headerlink" title="Setting up the AZ CLI"></a>Setting up the AZ CLI</h2><p>First up, <a href="https://docs.microsoft.com/en-us/cli/azure/?view=azure-cli-latest" target="_blank" rel="noopener">install the az cli</a>.</p><p>Once installed, you’ll need to login to your Azure Subscription.</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">az login</span><br></pre></td></tr></table></figure><p>A browser window will popup, prompting you to log in to your Azure account. Once you’ve logged in, the browser window will close and the az cli will display a list of subscriptions available in your account. If you have more than one subscription, make sure you select the one you want to use.</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">az account <span class="built_in">set</span> --subscription YourSubscriptionId</span><br></pre></td></tr></table></figure><h2 id="Create-a-Resource-Group"><a href="#Create-a-Resource-Group" class="headerlink" title="Create a Resource Group"></a>Create a Resource Group</h2><p>You will need a resource group for your Storage and CDN resources. If you don’t already have one, create it here.</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">az group create --name DavesFunctionApps --location WestUS2</span><br></pre></td></tr></table></figure><p>Most commands will require you to pass in a <code>--resource-group</code> and <code>--location</code> parameters. These parameters are <code>-g</code> and <code>-l</code> for short, but you can save yourself even more keystrokes by setting defaults for <code>az</code>.</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">az configure -d group=DavesFunctionApps</span><br><span class="line">az configure -d location=WestUS2</span><br></pre></td></tr></table></figure><h2 id="Creating-a-temporary-Premium-Hosting-Plan"><a href="#Creating-a-temporary-Premium-Hosting-Plan" class="headerlink" title="Creating a (temporary) Premium Hosting Plan"></a>Creating a (temporary) Premium Hosting Plan</h2><p>There is a strange requirement with Azure Functions / App Service. As per Jeff Hollan’s sample:</p><blockquote><p>The Azure Functions Premium plan is only available in a sub-set of infrastructure in each region. Internally we call these “webspaces” or “stamps.” You will only be able to move your function between plans if the webspace supports both consumption and premium. To make sure your consumption and premium functions land in an enabled webspace you should create a premium plan in a new resource group. Then create a consumption plan in the same resource group. You can then remove the premium plan. This will ensure the consumption function is in a premium-enabled webspace.</p><footer><strong>Jeff Hollan</strong><cite><a href="https://github.com/Azure-Samples/functions-csharp-premium-scaler" target="_blank" rel="noopener">github.com/Azure-Samples/functions-csharp-premium-scaler</a></cite></footer></blockquote><p>First, add an Azure Functions Premium plan to the resource group.</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">az functionapp plan create -n dave_temp_premium_plan --sku EP1 --min-instances 1</span><br></pre></td></tr></table></figure><p>You can delete this premium plan using the command below <em>after</em> you’ve deployed a function app to this resource group . <strong>Don’t forget to delete the premium plan. These cost $$$</strong></p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">az functionapp plan delete -n dave_temp_premium_plan</span><br></pre></td></tr></table></figure><h2 id="Creating-a-Function-App"><a href="#Creating-a-Function-App" class="headerlink" title="Creating a Function App"></a>Creating a Function App</h2><p>There are many options for creating a new function app. I really like the <code>func</code> command line tool which I installed using npm. Check out the <a href="https://github.com/Azure/azure-functions-core-tools" target="_blank" rel="noopener">Azure Functions Core Tools GitHub Repo</a> for details on other options for installing the <code>func</code> tooling.</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">npm i -g azure-functions-core-tools@3 --unsafe-perm <span class="literal">true</span></span><br></pre></td></tr></table></figure><p>The focus of this blog post is around scaling a function app. If you don’t already have an app built, you can follow along with <a href="https://docs.microsoft.com/azure/azure-functions/functions-run-local?tabs=windows%2Ccsharp%2Cbash" target="_blank" rel="noopener">this walkthrough</a> to create a function app.</p><p>A function app requires a Storage Account resource. An Application Insights resource is also highly recommended as this really simplifies monitoring your function app after it has been deployed. Let’s go ahead and create those 2 resources.</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">az storage account create -n davefuncappstorage</span><br><span class="line">az extension add -n application-insights</span><br><span class="line">az monitor app-insights component create --app davefuncappinsights</span><br><span class="line"></span><br></pre></td></tr></table></figure><p>Now we can create our Azure Function App resource with a consumption plan, passing in the name of the storage account and app insights resources that we just created. In my case, I’m specifying the dotnet runtime on a Windows host.</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">az functionapp create --consumption-plan-location WestUS2 --name davefuncapp123 --os-type Windows --runtime dotnet --storage-account davefuncappstorage --app-insights davefuncappinsights --<span class="built_in">functions</span>-version 3</span><br></pre></td></tr></table></figure><p>Remember to delete that temporary Premium Hosting Plan now!</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">az functionapp plan delete -n dave_temp_premium_plan</span><br></pre></td></tr></table></figure><h3 id="Deploying-your-Function-App-using-the-az-cli"><a href="#Deploying-your-Function-App-using-the-az-cli" class="headerlink" title="Deploying your Function App using the az cli"></a>Deploying your Function App using the az cli</h3><p>This is a bit outside the scope of this blog post but I like using the <code>az</code> cli to deploy my function apps because it’s easy to incorporate that into my CI/CD pipelines. Since my app is using the dotnet runtime, I use the <code>dotnet publish</code> command to build the app.</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">dotnet publish -c release</span><br></pre></td></tr></table></figure><p>Then, zip the contents of the publish folder (<code>bin\release\netcoreapp3.1\publish\</code>).</p><p>In PowerShell:</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">Compress-Archive -Path .\bin\release\netcoreapp3.1\publish\* -DestinationPath .\bin\release\netcoreapp3.1\package.zip</span><br></pre></td></tr></table></figure><p>or in Bash</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">zip -r ./bin/release/netcoreapp3.1/package.zip ./bin/release/netcoreapp3.1/publish/</span><br></pre></td></tr></table></figure><p>Finally, use the <code>az functionapp deployment</code> command to deploy the function app.</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">az functionapp deployment <span class="built_in">source</span> config-zip  -n davefuncapp123 --src ./bin/release/netcoreapp3.1/package.zip</span><br></pre></td></tr></table></figure><h2 id="Scale-up-to-a-premium-plan"><a href="#Scale-up-to-a-premium-plan" class="headerlink" title="Scale up to a premium plan"></a>Scale up to a premium plan</h2><p>Okay, now that we have a functioning (pun intended) app deployed and running on a consumption plan, let’s see what it takes to scale this thing up to a premium plan.</p><p>First, create a new Premium Hosting Plan with the parameters that make sense for the load you are expecting. The <code>--sku</code> parameter refers to the size of the compute instance: EP1 is the smallest. The <code>--min-instancs</code> parameter is the number of pre-warmed instances that will always be running for this hosting plan. The <code>--max-burst</code> parameter is the upper bounds on the number of instances that the premium plan can elastically scale out if more instances are needed to handle load.</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">az functionapp plan create -n davefuncapp123_premium_plan --sku EP1 --min-instances 4 --max-burst 12</span><br></pre></td></tr></table></figure><p>Next, move the function app to that premium hosting plan.</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">az functionapp update --plan davefuncapp123_premium_plan -n davefuncapp123</span><br></pre></td></tr></table></figure><p>That’s it! All it took was those 2 command and your function app is now running on a premium plan!</p><h2 id="Scale-back-down-to-a-consumption-plan"><a href="#Scale-back-down-to-a-consumption-plan" class="headerlink" title="Scale back down to a consumption plan"></a>Scale back down to a consumption plan</h2><p>Of course, that premium plan isn’t cheap. You might only want your function app running on the premium plan for a short period of time. Scaling back down is equally easy.</p><p>First, move the function app back to the consumption based plan. In my case, the name of the consumption plan is <code>WestUS2Plan</code>. You should see a consumption plan in your resource group. </p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">az functionapp update --plan WestUS2Plan -n davefuncapp123</span><br></pre></td></tr></table></figure><p>Next, delete the premium hosting plan.</p><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">az functionapp plan delete -n davefuncapp123_premium_plan </span><br></pre></td></tr></table></figure><h2 id="Wrapping-it-up"><a href="#Wrapping-it-up" class="headerlink" title="Wrapping it up"></a>Wrapping it up</h2><p>In this post, we saw how easy it is to move a function app between Premium and Consumption plans. A couple very simple <code>az</code> commands can help you get the performance and features of the Premium plan <em>only</em> when you need it while taking advantages of the simplicity and cost savings of a Consumption plan the rest of the time. </p>]]></content>
+    
+    <summary type="html">
+    
+      In this post, we use the az cli to move an Azure Function app from a Consumption Plan to a Premium Plan (and back again).
+    
+    </summary>
+    
+      <category term="Development" scheme="http://aspnetmonsters.com/categories/Development/"/>
+    
+    
+      <category term="Azure" scheme="http://aspnetmonsters.com/tags/Azure/"/>
+    
+      <category term="Web Dev" scheme="http://aspnetmonsters.com/tags/Web-Dev/"/>
+    
+      <category term="AZ CLI" scheme="http://aspnetmonsters.com/tags/AZ-CLI/"/>
+    
+      <category term="Azure Functions" scheme="http://aspnetmonsters.com/tags/Azure-Functions/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Monsters Weekly 165 -  WaitAndRetry with Polly</title>
+    <link href="http://aspnetmonsters.com/2020/05/monsters-weekly%5Cep165/"/>
+    <id>http://aspnetmonsters.com/2020/05/monsters-weekly\ep165/</id>
+    <published>2020-05-18T13:00:00.000Z</published>
+    <updated>2020-09-28T13:16:01.622Z</updated>
+    
+    <content type="html"><![CDATA[<p>Polly the transient application error handling block for .NET is able to handle some pretty complex scenarios. In this episode we’ll expand on the simple retry we set up in a previous episode (<a href="https://youtu.be/sjL0w8YrIq4" target="_blank" rel="noopener">https://youtu.be/sjL0w8YrIq4</a>) by handling multiple kinds of errors and introducing WaitAndRetry for exponential back-off.</p><iframe width="840" height="473" src="https://www.youtube.com/embed/bspAg17bvtw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Polly the transient application error handling block for .NET is able to handle some pretty complex scenarios. In this episode we’ll expa
+      
+    
+    </summary>
+    
+      <category term="Monsters Weekly" scheme="http://aspnetmonsters.com/categories/Monsters-Weekly/"/>
+    
+    
+      <category term="ASP.NET Core" scheme="http://aspnetmonsters.com/tags/ASP-NET-Core/"/>
+    
+  </entry>
+  
+</feed>
